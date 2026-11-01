@@ -1,39 +1,11 @@
-# 10 — Progression pédagogique
+# Progression pédagogique
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Ordonner les apprentissages avec une progression cohérente.
+Comprendre comment organiser les apprentissages de manière progressive et cohérente, en tenant compte des objectifs pédagogiques et des besoins des apprenants. Construire un enchaînement de séquences et d'activités favorisant l'acquisition, la consolidation et la mobilisation des connaissances et des compétences.
 
 ## Notions à explorer
 
-- Du simple au complexe.
-- séquençage.
-- temps.
-- alternance des activités.
-- espacement et réactivation..
-
-## Livrable professionnel possible
-
-Tableau de progression pédagogique.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Principes de progression pédagogique :** découvrir différentes logiques de progression (du simple au complexe, du concret à l'abstrait, progression spiralaire, etc.) et leurs contextes d'application.
+- **Séquençage des apprentissages :** organiser les contenus et les activités selon une logique permettant de construire progressivement les connaissances et les compétences.
+- **Rythme et temporalité :** définir la durée, la fréquence et la répartition des séquences en tenant compte des objectifs, de la complexité des apprentissages et des caractéristiques des apprenants.
+- **Alternance des activités pédagogiques :** articuler différentes formes d'activités (découverte, pratique, application, réflexion, etc.) pour soutenir la progression des apprentissages.
+- **Consolidation et réactivation des acquis :** intégrer des occasions de révision, de pratique espacée et de mobilisation des connaissances pour favoriser leur mémorisation et leur réutilisation.
