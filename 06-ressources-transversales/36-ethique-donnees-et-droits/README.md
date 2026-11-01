@@ -1,39 +1,11 @@
 # 36 — Éthique, données et droits
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Protéger les personnes et sécuriser les usages des données et contenus.
+Comprendre les principaux enjeux éthiques et juridiques liés à la conception et à la mise en œuvre des formations. Adopter des pratiques responsables pour protéger les personnes, respecter leurs droits et utiliser les ressources pédagogiques dans un cadre approprié.
 
 ## Notions à explorer
 
-- RGPD.
-- protection des données.
-- propriété intellectuelle.
-- consentement.
-- éthique de l’IA..
+- **Protection des données personnelles (RGPD) :** comprendre les principes du traitement des données, les droits des personnes et les obligations applicables aux dispositifs de formation.
+- **Propriété intellectuelle et droits d'auteur :** connaître les règles d'utilisation, de reproduction et de partage des contenus pédagogiques, ainsi que les principales licences.
+- **Droit à l'image et à la voix :** comprendre les conditions d'utilisation et de diffusion de photographies, de vidéos et d'enregistrements impliquant des personnes.
+- **Éthique et responsabilité en formation :** réfléchir aux principes de transparence, d'équité, de confidentialité et de respect des apprenants dans les pratiques pédagogiques.
 
-## Livrable professionnel possible
-
-Grille de vigilance éthique.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
