@@ -1,42 +1,12 @@
-# 22 — Intégration et publication sur LMS
+# Intégration et publication sur LMS
 
-**Phase / catégorie :** Déployer et accompagner
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Configurer, publier et vérifier le parcours dans son environnement de diffusion.
+Comprendre comment intégrer, configurer et publier un parcours de formation dans un environnement numérique d’apprentissage. Vérifier son bon fonctionnement et garantir des conditions d’accès et d’utilisation adaptées aux apprenants.
 
 ## Notions à explorer
 
-- LMS.
-- LXP.
-- parcours.
-- inscriptions.
-- droits.
-- publication.
-- tests.
-- suivi technique..
-
-## Livrable professionnel possible
-
-Checklist de mise en ligne.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Environnements de diffusion (LMS/LXP) :** comprendre les principales fonctionnalités des plateformes d’apprentissage et leurs contraintes techniques.
+- **Intégration et configuration des parcours :** organiser les modules, intégrer les ressources pédagogiques et paramétrer les activités et les conditions de progression.
+- **Gestion des inscriptions et des accès :** configurer les profils utilisateurs, les groupes, les droits d’accès et les modalités d’inscription.
+- **Tests et validation fonctionnelle :** vérifier la navigation, l’affichage des contenus, le fonctionnement des activités et la compatibilité avec différents supports.
+- **Publication et mise à jour :** préparer la mise en ligne, gérer les versions et effectuer les modifications nécessaires après publication.
+- **Suivi technique et résolution des incidents :** identifier les anomalies, recueillir les signalements et organiser les corrections pour assurer le bon fonctionnement du parcours.
