@@ -1,4 +1,4 @@
-# 26 — Évaluation des acquis
+# Évaluation des acquis
 
 Comprendre comment vérifier dans quelle mesure les apprenants ont atteint les objectifs pédagogiques et développé les connaissances et compétences visées. Analyser les résultats des évaluations pour identifier les acquis, les difficultés et les besoins d'accompagnement.
 
