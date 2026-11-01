@@ -1,40 +1,11 @@
 # 30 — Amélioration continue
 
-**Phase / catégorie :** Évaluer et améliorer
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Prioriser et documenter les évolutions du dispositif.
+Comprendre comment faire évoluer un dispositif de formation à partir des évaluations, des retours d’expérience et des besoins identifiés. Mettre en place une démarche structurée pour définir, réaliser et vérifier les améliorations apportées.
 
 ## Notions à explorer
 
-- Boucles de feedback.
-- arbitrage.
-- versions.
-- itération.
-- suivi des corrections.
-- décision éclairée par les données..
+- **Identification des axes d'amélioration :** exploiter les évaluations, les retours des apprenants et des formateurs, les observations et les données disponibles pour repérer les points à améliorer.
+- **Priorisation des actions :** déterminer les améliorations à mettre en œuvre en fonction de leur importance, de leur impact attendu et des ressources disponibles.
+- **Mise en œuvre et suivi des améliorations :** planifier les modifications, suivre les corrections et documenter les évolutions du dispositif.
+- **Évaluation des changements :** vérifier les effets des améliorations réalisées et identifier les ajustements complémentaires nécessaires.
 
-## Livrable professionnel possible
-
-Plan d’amélioration continue.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
