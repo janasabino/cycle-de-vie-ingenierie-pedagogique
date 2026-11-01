@@ -1,4 +1,4 @@
-# 29 — Learning Analytics
+# Learning Analytics
 
 Comprendre comment collecter, analyser et interpréter les données issues des activités d’apprentissage pour mieux comprendre les parcours des apprenants. Exploiter ces informations pour identifier les difficultés, éclairer les décisions pédagogiques et améliorer les dispositifs de formation.
 
