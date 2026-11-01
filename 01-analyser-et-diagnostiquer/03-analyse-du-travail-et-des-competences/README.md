@@ -1,39 +1,11 @@
-# 03 — Analyse du travail et des compétences
-
-**Phase / catégorie :** Analyser et diagnostiquer
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
+# 03 — Analyse des compétences visées et des situations d'application
 
 Relier les situations de travail aux compétences attendues et aux performances constatées.
 
 ## Notions à explorer
 
-- Observation du travail réel.
-- référentiel de compétences.
-- tâches critiques.
-- écarts de performance.
-- matrice de compétences..
-
-## Livrable professionnel possible
-
-Cartographie des compétences et situations professionnelles.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+1. **Identification des compétences visées :** quelles compétences souhaite-t-on développer ?
+2. **Analyse des situations d'application :** dans quels contextes ces compétences pourront-elles être mobilisées ?
+3. **Analyse du travail et de l'activité :** comment analyser les situations professionnelles, lorsque cela est pertinent ?
+4. **Référentiels de compétences :** comment identifier, organiser et décrire les compétences ?
+5. **Méthodes d'analyse :** entretiens, observations, analyse documentaire et autres approches.
