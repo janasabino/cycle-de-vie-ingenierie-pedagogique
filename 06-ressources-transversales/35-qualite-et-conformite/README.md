@@ -1,40 +1,11 @@
 # 35 — Qualité et conformité
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Intégrer les exigences qualité dans les pratiques de conception et de déploiement.
+Comprendre les principes de la démarche qualité en formation, identifier les exigences et les référentiels applicables et mettre en place des pratiques permettant d’assurer la qualité, la conformité et la traçabilité des dispositifs de formation.
 
 ## Notions à explorer
 
-- Qualiopi.
-- preuves.
-- traçabilité.
-- documentation.
-- contrôles.
-- référentiels qualité..
+- **Démarche qualité en formation :** comprendre les principes de la qualité et leur application à la conception, à la mise en œuvre et au suivi des formations.
+- **Référentiels et exigences qualité :** découvrir les principaux cadres de référence, notamment le Référentiel national qualité (Qualiopi).
+- **Documentation et traçabilité :** identifier les documents, les éléments de preuve et les pratiques permettant de justifier et de suivre les actions réalisées.
+- **Contrôle qualité et audits :** comprendre comment vérifier le respect des exigences, identifier les non-conformités et préparer les audits.
 
-## Livrable professionnel possible
-
-Checklist qualité contextualisée.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
