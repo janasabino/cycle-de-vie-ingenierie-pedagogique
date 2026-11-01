@@ -2,8 +2,6 @@
 
 Comprendre le problème, les besoins réels et les conditions de la réponse avant de concevoir une solution.
 
-[← Retour à l’index général](../README.md)
-
 ## Modules
 
 | N° | Module | État |
@@ -15,6 +13,5 @@ Comprendre le problème, les besoins réels et les conditions de la réponse ava
 | 05 | [Analyse du contexte et des ressources](05-analyse-du-contexte-et-des-ressources/) | À venir |
 | 06 | [Cadrage et cahier des charges](06-cadrage-et-cahier-des-charges/) | À venir |
 
-## Comment utiliser cette section
 
-Chaque module possède son propre `README.md`, une page `sources.md` et, à terme, deux fichiers PDF (`synthese.pdf` et `cheat-sheet.pdf`). Les modules peuvent être étudiés dans un autre ordre selon les besoins du projet.
+**Les modules peuvent être étudiés dans un autre ordre selon les besoins du projet.**
