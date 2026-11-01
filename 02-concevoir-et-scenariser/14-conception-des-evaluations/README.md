@@ -1,39 +1,12 @@
-# 14 — Conception des évaluations
+# Conception des évaluations
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Prévoir les preuves d’apprentissage et les modalités de feedback dès la conception.
+Comprendre comment concevoir des évaluations cohérentes avec les objectifs pédagogiques et les compétences visées. Définir les preuves d'apprentissage attendues, choisir les modalités d'évaluation et élaborer des outils permettant d'apprécier les acquis des apprenants.
 
 ## Notions à explorer
 
-- Évaluation diagnostique, formative et sommative.
-- compétences.
-- rubriques.
-- feedback.
-- critères observables..
-
-## Livrable professionnel possible
-
-Plan d’évaluation.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Fonctions de l'évaluation :** distinguer les évaluations diagnostique, formative et sommative, et comprendre leurs objectifs et leurs moments d'utilisation.
+- **Alignement entre objectifs et évaluations :** déterminer ce que les apprenants devront démontrer pour attester l'atteinte des objectifs pédagogiques.
+- **Modalités et instruments d'évaluation :** choisir et concevoir des questionnaires, mises en situation, études de cas, exercices pratiques, productions ou autres dispositifs adaptés aux apprentissages visés.
+- **Critères et indicateurs de réussite :** définir des critères observables et élaborer des grilles d'évaluation, des rubriques descriptives (*rubrics*) ou des barèmes adaptés.
+- **Conception des feedbacks :** prévoir des retours clairs, constructifs et exploitables pour aider les apprenants à comprendre leurs réussites, leurs erreurs et leurs pistes de progression.
+- **Qualité des évaluations :** veiller à la pertinence, à la clarté, à l'équité et à la faisabilité des instruments conçus.
