@@ -1,39 +1,12 @@
 # 27 — Évaluation du dispositif
 
-**Phase / catégorie :** Évaluer et améliorer
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Évaluer l’expérience et le fonctionnement du dispositif.
+Comprendre comment évaluer la pertinence, la qualité pédagogique et le fonctionnement d'un dispositif de formation. Analyser l'expérience des apprenants et les retours des différents acteurs pour identifier les points forts, les difficultés et les pistes d'amélioration.
 
 ## Notions à explorer
 
-- Satisfaction.
-- engagement.
-- expérience utilisateur.
-- qualité pédagogique.
-- collecte de retours..
+- **Pertinence et qualité pédagogique :** examiner l'adéquation du dispositif aux besoins identifiés, la cohérence des contenus, des activités et des modalités pédagogiques.
+- **Expérience et satisfaction des apprenants :** évaluer l'utilité perçue, l'accessibilité, la facilité d'utilisation et la satisfaction globale.
+- **Participation et engagement :** analyser les indicateurs de participation, de progression et d'abandon, en tenant compte de leurs limites.
+- **Fonctionnement du dispositif :** examiner les aspects techniques, organisationnels et les conditions d'accompagnement des apprenants.
+- **Recueil et analyse des retours :** exploiter les questionnaires, les entretiens, les observations et les retours des différents acteurs pour identifier les améliorations possibles.
 
-## Livrable professionnel possible
-
-Bilan du dispositif.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
