@@ -1,42 +1,13 @@
 # 37 — Intelligence artificielle appliquée
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Examiner les apports et limites de l’IA dans les activités d’ingénierie pédagogique.
+Comprendre les principes, les possibilités et les limites de l’intelligence artificielle dans le domaine de l’ingénierie pédagogique. Explorer ses applications pour soutenir la conception, la production et l’évaluation des formations, tout en développant un regard critique sur ses usages.
 
 ## Notions à explorer
 
-- IA générative.
-- LLM.
-- prompting.
-- assistants.
-- automatisation.
-- personnalisation.
-- évaluation critique.
-- biais..
+- **Fondamentaux de l'intelligence artificielle :** distinguer IA, apprentissage automatique (machine learning), IA générative et grands modèles de langage (LLM).
+- **Applications en ingénierie pédagogique :** explorer les usages de l'IA dans l'analyse des besoins, la conception pédagogique, la création de ressources, l'accompagnement des apprenants et l'évaluation.
+- **Prompting et interaction avec les modèles :** apprendre à formuler, contextualiser, tester et améliorer des instructions pour obtenir des résultats pertinents.
+- **Assistants, agents et automatisation :** comprendre leurs fonctionnements, leurs possibilités d'utilisation et leurs limites dans les activités de formation.
+- **Évaluation critique des résultats :** identifier les erreurs, les hallucinations, les biais et les limites des modèles, et apprendre à vérifier la fiabilité et la pertinence des productions.
+- **Éthique et usages responsables de l'IA :** examiner les enjeux de transparence, d'équité, de confidentialité, de responsabilité et de supervision humaine.
 
-## Livrable professionnel possible
-
-Cas d’usage documenté et grille de contrôle.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
