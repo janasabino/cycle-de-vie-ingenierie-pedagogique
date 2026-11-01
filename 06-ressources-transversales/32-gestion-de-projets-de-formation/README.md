@@ -1,4 +1,4 @@
-# 32 — Gestion de projets de formation
+# Gestion de projets de formation
 
 Comprendre comment organiser, coordonner et piloter un projet de formation, de sa préparation à sa réalisation, en tenant compte des objectifs, des ressources et des contraintes.
 
