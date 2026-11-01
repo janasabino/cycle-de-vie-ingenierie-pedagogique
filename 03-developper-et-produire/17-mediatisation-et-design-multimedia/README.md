@@ -1,41 +1,11 @@
-# 17 — Médiatisation et design multimédia
+# Médiatisation et design multimédia
 
-**Phase / catégorie :** Développer et produire
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Choisir les médias et concevoir des supports adaptés à l’usage.
+Comprendre comment transformer des contenus pédagogiques en ressources visuelles, sonores, audiovisuelles et interactives. Découvrir les principes de conception multimédia et les techniques de production permettant de créer des supports adaptés aux objectifs d'apprentissage.
 
 ## Notions à explorer
 
-- Images.
-- infographies.
-- audio.
-- vidéo.
-- storytelling.
-- microlearning.
-- accessibilité des médias..
-
-## Livrable professionnel possible
-
-Prototype de ressource multimédia.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Choix et combinaison des médias :** comprendre les caractéristiques et les usages pédagogiques du texte, de l'image, de l'audio, de la vidéo et des ressources interactives.
+- **Principes de l'apprentissage multimédia :** découvrir les principes de Mayer (cohérence, contiguïté, redondance, segmentation, etc.) et leur application à la conception des ressources pédagogiques.
+- **Design graphique et infographique :** explorer les principes de composition visuelle, de typographie, de mise en page et de représentation graphique des informations.
+- **Production de ressources audio et vidéo :** comprendre les principales étapes de préparation, d'enregistrement, de réalisation et de montage des ressources audiovisuelles.
+- **Narration multimédia :** explorer les techniques permettant d'articuler textes, images, sons et vidéos pour construire des présentations et des expériences d'apprentissage cohérentes.
