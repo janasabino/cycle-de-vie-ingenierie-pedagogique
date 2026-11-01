@@ -1,40 +1,14 @@
-# 15 — Scénarisation pédagogique et storyboard
+# Scénarisation pédagogique et storyboard
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Transformer la progression en séquences concrètes et spécifications de production.
+Comprendre comment traduire les choix pédagogiques en scénarios détaillés, prêts à guider la production d'un dispositif de formation. Définir le déroulement des séquences, les interactions et les consignes, puis formaliser les éléments nécessaires à leur réalisation.
 
 ## Notions à explorer
 
-- Macro-scénario.
-- micro-scénario.
-- interactions.
-- écriture pédagogique.
-- narration.
-- storyboard..
+- **Macro-scénarisation et micro-scénarisation :** distinguer la scénarisation globale des séquences et la description détaillée des étapes, des activités et des interactions.
+- **Déroulement des séquences pédagogiques :** préciser l'enchaînement des situations d'apprentissage, les transitions, les consignes et les modalités de participation.
+- **Scénarisation des interactions :** décrire les actions attendues des apprenants, les possibilités de navigation, les embranchements et les feedbacks associés.
+- **Écriture du scénario pédagogique :** rédiger les consignes, les dialogues, les situations contextualisées et les textes nécessaires au déroulement des activités.
+- **Narration et mise en situation :** intégrer des personnages, des situations-problèmes ou des fils narratifs lorsque ces éléments contribuent aux objectifs pédagogiques.
+- **Storyboard pédagogique :** organiser, écran par écran ou étape par étape, les contenus, les médias prévus, les interactions et les indications nécessaires à la production et à la validation.
 
-## Livrable professionnel possible
 
-Storyboard ou scénario détaillé.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
