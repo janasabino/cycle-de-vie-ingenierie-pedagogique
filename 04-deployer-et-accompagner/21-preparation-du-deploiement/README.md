@@ -1,4 +1,4 @@
-# 21 — Préparation du déploiement
+# Préparation du déploiement
 
 Comprendre comment préparer les conditions nécessaires à la mise en œuvre d'un dispositif de formation. Organiser les ressources, coordonner les différents acteurs et anticiper les risques afin d'assurer un lancement dans de bonnes conditions.
 
