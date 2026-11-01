@@ -1,41 +1,12 @@
 # 33 — Sciences de l’apprentissage
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Mobiliser des connaissances sur l’apprentissage pour éclairer les choix pédagogiques.
+Comprendre comment les personnes apprennent à travers les grandes théories de l’apprentissage et les apports des sciences cognitives. Mobiliser ces connaissances pour éclairer les choix pédagogiques et concevoir des situations d’apprentissage adaptées.
 
 ## Notions à explorer
 
-- Attention.
-- mémoire.
-- charge cognitive.
-- motivation.
-- pratique de récupération.
-- espacement.
-- transfert..
+- **Théories de l’apprentissage :** béhaviorisme, cognitivisme, constructivisme et socioconstructivisme.
+- **Processus cognitifs :** attention, mémoire et charge cognitive.
+- **Motivation et apprentissage :** facteurs qui influencent la motivation, l’engagement et l’autorégulation des apprenants.
+- **Stratégies d’apprentissage :** pratique de récupération, pratique espacée, métacognition et feedback.
+- **Transfert des apprentissages :** comprendre les conditions qui favorisent la mobilisation des connaissances et des compétences dans de nouveaux contextes.
 
-## Livrable professionnel possible
-
-Fiche de principes applicables.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
