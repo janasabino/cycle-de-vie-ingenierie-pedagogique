@@ -1,39 +1,13 @@
-# 07 — Objectifs pédagogiques et alignement
+# Objectifs pédagogiques et alignement
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Définir des acquis visés observables et aligner activités et évaluations.
+Comprendre comment définir et formuler des objectifs pédagogiques clairs, observables et évaluables à partir des compétences et des besoins identifiés. Assurer la cohérence entre les objectifs visés, les activités d'apprentissage et les modalités d'évaluation.
 
 ## Notions à explorer
 
-- Objectifs opérationnels.
-- taxonomies.
-- critères.
-- compétences.
-- alignement pédagogique..
+- **Types et niveaux d'objectifs :** distinguer les objectifs de formation, les objectifs généraux, intermédiaires et opérationnels, et comprendre leur articulation.
+- **Formulation des objectifs pédagogiques :** utiliser des verbes d'action observables, préciser les conditions de réalisation et définir les critères de réussite lorsque cela est pertinent.
+- **Taxonomies pédagogiques :** découvrir la taxonomie de Bloom et sa version révisée pour identifier les différents niveaux de complexité cognitive et formuler des objectifs adaptés.
+- **Articulation entre compétences et objectifs :** comprendre comment traduire les compétences visées en objectifs d'apprentissage précis et évaluables.
+- **Alignement pédagogique :** comprendre le principe d'alignement constructif (Biggs) et assurer la cohérence entre les objectifs, les activités pédagogiques et les évaluations.
 
-## Livrable professionnel possible
 
-Matrice objectifs–activités–évaluations.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
