@@ -1,41 +1,12 @@
 # 21 — Préparation du déploiement
 
-**Phase / catégorie :** Déployer et accompagner
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Organiser la mise en œuvre opérationnelle de la formation.
+Comprendre comment préparer les conditions nécessaires à la mise en œuvre d'un dispositif de formation. Organiser les ressources, coordonner les différents acteurs et anticiper les risques afin d'assurer un lancement dans de bonnes conditions.
 
 ## Notions à explorer
 
-- Calendrier.
-- logistique.
-- ressources.
-- rôles.
-- communication.
-- préparation des intervenants.
-- risques..
-
-## Livrable professionnel possible
-
-Plan de déploiement.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Planification du déploiement :** définir le calendrier de lancement, les échéances et les principales étapes de préparation.
+- **Organisation logistique et ressources :** vérifier la disponibilité des moyens humains, matériels, techniques et organisationnels nécessaires.
+- **Coordination des acteurs :** clarifier les responsabilités, préparer les intervenants et organiser les modalités de collaboration.
+- **Préparation de la communication :** coordonner les actions d'information prévues avant le lancement auprès des différents publics concernés.
+- **Anticipation des risques :** identifier les difficultés potentielles, les points bloquants et les solutions de repli.
+- **Vérification avant lancement :** établir une checklist de préparation, contrôler les éléments essentiels et valider les conditions de mise en œuvre.
