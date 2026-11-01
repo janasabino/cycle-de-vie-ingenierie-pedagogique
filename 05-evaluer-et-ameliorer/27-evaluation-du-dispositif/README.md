@@ -1,4 +1,4 @@
-# 27 — Évaluation du dispositif
+# Évaluation du dispositif
 
 Comprendre comment évaluer la pertinence, la qualité pédagogique et le fonctionnement d'un dispositif de formation. Analyser l'expérience des apprenants et les retours des différents acteurs pour identifier les points forts, les difficultés et les pistes d'amélioration.
 
