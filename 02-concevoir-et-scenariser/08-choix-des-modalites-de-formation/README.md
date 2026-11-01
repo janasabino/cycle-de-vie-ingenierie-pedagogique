@@ -1,41 +1,11 @@
-# 08 — Choix des modalités de formation
+# Modalités et formats de formation
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Choisir les modalités adaptées au public, aux objectifs et au contexte.
+Comprendre les différentes modalités et formats de formation, leurs caractéristiques et leurs possibilités pédagogiques. Identifier les solutions les plus adaptées aux objectifs d'apprentissage, aux besoins des publics et aux contraintes du contexte.
 
 ## Notions à explorer
 
-- Présentiel.
-- distanciel.
-- hybride.
-- synchrone.
-- asynchrone.
-- multimodalité.
-- contraintes d’accès..
-
-## Livrable professionnel possible
-
-Justification des choix de modalités.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Modalités de formation :** distinguer les formations en présentiel, à distance et hybrides, ainsi que leurs principales caractéristiques.
+- **Modalités synchrones et asynchrones :** comprendre les différences entre les apprentissages en temps réel et en différé, notamment dans les classes virtuelles et les parcours e-learning.
+- **Formats et dispositifs d'apprentissage :** découvrir le microlearning, le nanolearning, le mobile learning, les MOOC et d'autres formats de formation.
+- **Multimodalité :** comprendre comment articuler différentes modalités et différents formats au sein d'un même parcours de formation.
+- **Critères de choix et contraintes de mise en œuvre :** sélectionner les modalités et les formats en fonction des objectifs pédagogiques, des caractéristiques des apprenants, des ressources disponibles et des contraintes techniques, temporelles et organisationnelles.
