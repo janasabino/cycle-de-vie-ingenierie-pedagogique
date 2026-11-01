@@ -1,40 +1,11 @@
 # 26 — Évaluation des acquis
 
-**Phase / catégorie :** Évaluer et améliorer
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Mesurer les connaissances et compétences réellement acquises.
+Comprendre comment vérifier dans quelle mesure les apprenants ont atteint les objectifs pédagogiques et développé les connaissances et compétences visées. Analyser les résultats des évaluations pour identifier les acquis, les difficultés et les besoins d'accompagnement.
 
 ## Notions à explorer
 
-- Résultats.
-- critères.
-- seuils.
-- qualité des questions.
-- interprétation des réponses.
-- feedback..
-
-## Livrable professionnel possible
-
-Bilan d’acquisition.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Méthodes d'évaluation des acquis :** utiliser différents moyens pour vérifier les apprentissages (quiz, mises en situation, productions, observations, etc.).
+- **Critères et niveaux de maîtrise :** interpréter les résultats à partir de critères observables et de niveaux de réussite ou de maîtrise attendus.
+- **Qualité des évaluations :** examiner la pertinence, la validité et la fiabilité des outils utilisés pour évaluer les apprentissages.
+- **Analyse et interprétation des résultats :** identifier les acquis, les erreurs récurrentes, les difficultés et les limites des données recueillies.
+- **Feedback et régulation des apprentissages :** formuler des retours constructifs et utiliser les résultats pour proposer des ajustements ou des actions de remédiation.
