@@ -1,0 +1,129 @@
+cycle-de-vie-ingenierie-pedagogique/
+├── README.md
+├── cartographie-des-themes.md
+├── 01-analyser-et-diagnostiquer/
+│   ├── README.md
+│   ├── 01-analyse-de-la-demande/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 02-analyse-des-besoins-de-formation/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 03-analyse-du-travail-et-des-competences/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 04-analyse-du-public-apprenant/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 05-analyse-du-contexte-et-des-ressources/
+│   │   ├── README.md
+│   │   └── sources.md
+│   └── 06-cadrage-et-cahier-des-charges/
+│       ├── README.md
+│       └── sources.md
+├── 02-concevoir-et-scenariser/
+│   ├── README.md
+│   ├── 07-objectifs-pedagogiques-et-alignement/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 08-choix-des-modalites-de-formation/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 09-architecture-du-parcours/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 10-progression-pedagogique/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 11-methodes-et-activites-pedagogiques/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 12-learning-experience-design/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 13-personnalisation-et-apprentissage-adaptatif/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 14-conception-des-evaluations/
+│   │   ├── README.md
+│   │   └── sources.md
+│   └── 15-scenarisation-pedagogique-et-storyboard/
+│       ├── README.md
+│       └── sources.md
+├── 03-developper-et-produire/
+│   ├── README.md
+│   ├── 16-conception-des-contenus-pedagogiques/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 17-mediatisation-et-design-multimedia/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 18-outils-auteurs-et-formats-numeriques/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 19-prototypage-et-tests-utilisateurs/
+│   │   ├── README.md
+│   │   └── sources.md
+│   └── 20-recette-et-validation-pedagogique/
+│       ├── README.md
+│       └── sources.md
+├── 04-deployer-et-accompagner/
+│   ├── README.md
+│   ├── 21-preparation-du-deploiement/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 22-integration-et-publication-sur-lms/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 23-communication-et-mobilisation/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 24-conduite-du-changement-et-adoption/
+│   │   ├── README.md
+│   │   └── sources.md
+│   └── 25-animation-et-accompagnement/
+│       ├── README.md
+│       └── sources.md
+├── 05-evaluer-et-ameliorer/
+│   ├── README.md
+│   ├── 26-evaluation-des-acquis/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 27-evaluation-du-dispositif/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 28-transfert-et-mesure-d-impact/
+│   │   ├── README.md
+│   │   └── sources.md
+│   ├── 29-learning-analytics/
+│   │   ├── README.md
+│   │   └── sources.md
+│   └── 30-amelioration-continue/
+│       ├── README.md
+│       └── sources.md
+└── 06-ressources-transversales/
+    ├── README.md
+    ├── 31-modeles-ingenierie-pedagogique/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 32-gestion-de-projets-de-formation/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 33-sciences-de-l-apprentissage/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 34-accessibilite-et-inclusion/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 35-qualite-et-conformite/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 36-ethique-donnees-et-droits/
+    │   ├── README.md
+    │   └── sources.md
+    ├── 37-intelligence-artificielle-appliquee/
+    │   ├── README.md
+    │   └── sources.md
+    └── 38-design-ecosystemes-apprentissage/
+        ├── README.md
+        └── sources.md
