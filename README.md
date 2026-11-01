@@ -24,7 +24,7 @@ Les références utilisées pour chaque thème seront documentées dans les modu
 | | **[Analyser et diagnostiquer](01-analyser-et-diagnostiquer/)** | **Catégorie** |
 | 01 | [Analyse de la demande](01-analyser-et-diagnostiquer/01-analyse-de-la-demande/) | En préparation |
 | 02 | [Analyse des besoins de formation](01-analyser-et-diagnostiquer/02-analyse-des-besoins-de-formation/) | À venir |
-| 03 | [Analyse du travail et des compétences](01-analyser-et-diagnostiquer/03-analyse-du-travail-et-des-competences/) | À venir |
+| 03 | [Analyse des compétences visées et des situations d'application](01-analyser-et-diagnostiquer/03-analyse-competences-et-situations/) | À venir |
 | 04 | [Analyse du public apprenant](01-analyser-et-diagnostiquer/04-analyse-du-public-apprenant/) | À venir |
 | 05 | [Analyse du contexte et des ressources](01-analyser-et-diagnostiquer/05-analyse-du-contexte-et-des-ressources/) | À venir |
 | 06 | [Cadrage et cahier des charges](01-analyser-et-diagnostiquer/06-cadrage-et-cahier-des-charges/) | À venir |
