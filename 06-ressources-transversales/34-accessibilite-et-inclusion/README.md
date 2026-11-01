@@ -1,4 +1,4 @@
-# 34 — Accessibilité et inclusion
+# Accessibilité et inclusion
 
 Comprendre les enjeux de l’accessibilité et de l’inclusion dans la formation. Identifier les obstacles à l’apprentissage et concevoir des dispositifs pédagogiques adaptés à la diversité des publics, favorisant l’accès, la participation et la réussite de chacun.
 
