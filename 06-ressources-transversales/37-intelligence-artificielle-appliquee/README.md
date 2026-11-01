@@ -1,4 +1,4 @@
-# 37 — Intelligence artificielle appliquée
+# Intelligence artificielle appliquée
 
 Comprendre les principes, les possibilités et les limites de l’intelligence artificielle dans le domaine de l’ingénierie pédagogique. Explorer ses applications pour soutenir la conception, la production et l’évaluation des formations, tout en développant un regard critique sur ses usages.
 
