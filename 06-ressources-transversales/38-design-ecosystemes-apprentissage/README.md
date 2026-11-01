@@ -1,4 +1,4 @@
-# 38 — Design d’écosystèmes d’apprentissage
+# Design d’écosystèmes d’apprentissage
 
 Comprendre comment articuler les personnes, les ressources, les outils et les différentes situations d’apprentissage au sein d’un ensemble cohérent. Explorer les moyens de favoriser l’apprentissage continu, au-delà d’une formation ou d’un parcours isolé.
 
