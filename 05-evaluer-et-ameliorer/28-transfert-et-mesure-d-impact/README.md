@@ -1,4 +1,4 @@
-# 28 — Transfert et mesure d’impact
+# Transfert et mesure d’impact
 
 Comprendre comment évaluer la mobilisation des connaissances et des compétences acquises dans des situations concrètes, au-delà de la formation. Identifier les facteurs favorisant le transfert des apprentissages et analyser les effets du dispositif sur les personnes et les organisations.
 
