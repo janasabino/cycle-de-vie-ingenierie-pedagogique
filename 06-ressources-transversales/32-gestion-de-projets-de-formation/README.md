@@ -1,43 +1,15 @@
 # 32 — Gestion de projets de formation
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Piloter les objectifs, ressources et risques des projets et portefeuilles de formation.
+Comprendre comment organiser, coordonner et piloter un projet de formation, de sa préparation à sa réalisation, en tenant compte des objectifs, des ressources et des contraintes.
 
 ## Notions à explorer
 
-- Planning.
-- jalons.
-- budget.
-- RACI.
-- parties prenantes.
-- agile.
-- Kanban.
-- portefeuille.
-- durabilité..
+- Planification et organisation du projet : définir les étapes, les livrables, les échéances et les jalons.
 
-## Livrable professionnel possible
+- Gestion des ressources et du budget : estimer les moyens humains, matériels, financiers et temporels nécessaires.
 
-Kit minimal de pilotage.
+- Parties prenantes et responsabilités : identifier les acteurs du projet, clarifier leurs rôles et organiser la collaboration (RACI).
 
-## Ressources du module
+- Pilotage et suivi du projet : suivre l'avancement, anticiper les risques, gérer les écarts et ajuster les actions.
 
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- Méthodes et outils de gestion de projet : découvrir les approches traditionnelles et agiles, ainsi que des outils comme le diagramme de Gantt et le tableau Kanban.
