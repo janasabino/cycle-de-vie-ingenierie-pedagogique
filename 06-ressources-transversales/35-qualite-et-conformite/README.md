@@ -1,4 +1,4 @@
-# 35 — Qualité et conformité
+# Qualité et conformité
 
 Comprendre les principes de la démarche qualité en formation, identifier les exigences et les référentiels applicables et mettre en place des pratiques permettant d’assurer la qualité, la conformité et la traçabilité des dispositifs de formation.
 
