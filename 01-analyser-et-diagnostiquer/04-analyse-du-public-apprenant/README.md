@@ -1,4 +1,4 @@
-# Analyse du public apprenant
+# 04 — Analyse du public apprenant
 
 Comprendre comment identifier et analyser les caractéristiques, les acquis, les attentes et les besoins des publics concernés par une formation. Recueillir les informations nécessaires pour orienter les choix pédagogiques et anticiper les obstacles à l'apprentissage et à la participation.
 

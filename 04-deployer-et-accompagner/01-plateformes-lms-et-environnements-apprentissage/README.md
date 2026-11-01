@@ -1,4 +1,4 @@
-# Plateformes LMS et environnements d’apprentissage
+# 01 — Plateformes LMS et environnements d’apprentissage
 
 Comprendre le fonctionnement des plateformes de gestion de l’apprentissage (LMS) et leurs principales fonctionnalités. Explorer les différentes solutions disponibles, leurs usages et leurs limites afin de choisir et d’utiliser un environnement adapté aux besoins d’un dispositif de formation.
 

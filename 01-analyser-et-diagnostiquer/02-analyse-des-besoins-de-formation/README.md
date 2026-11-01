@@ -1,4 +1,4 @@
-# Analyse des besoins de formation
+# 02 — Analyse des besoins de formation
 
 Comprendre comment identifier et analyser les besoins de formation à partir des écarts entre les situations actuelles et les résultats attendus. Recueillir des informations, examiner les causes des difficultés et déterminer les besoins auxquels une action de formation peut répondre.
 

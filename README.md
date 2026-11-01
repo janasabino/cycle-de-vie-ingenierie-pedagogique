@@ -29,46 +29,48 @@ Les références utilisées pour chaque thème seront documentées dans les modu
 | 05 | [Analyse du contexte et des ressources](01-analyser-et-diagnostiquer/05-analyse-du-contexte-et-des-ressources/) | À venir |
 | 06 | [Cadrage et cahier des charges](01-analyser-et-diagnostiquer/06-cadrage-et-cahier-des-charges/) | À venir |
 | | **[Concevoir et scénariser](02-concevoir-et-scenariser/)** | **Catégorie** |
-| 07 | [Objectifs pédagogiques et alignement](02-concevoir-et-scenariser/07-objectifs-pedagogiques-et-alignement/) | À venir |
-| 08 | [Choix des modalités de formation](02-concevoir-et-scenariser/08-choix-des-modalites-de-formation/) | À venir |
-| 09 | [Architecture du parcours](02-concevoir-et-scenariser/09-architecture-du-parcours/) | À venir |
-| 10 | [Progression pédagogique](02-concevoir-et-scenariser/10-progression-pedagogique/) | À venir |
-| 11 | [Méthodes et activités pédagogiques](02-concevoir-et-scenariser/11-methodes-et-activites-pedagogiques/) | À venir |
-| 12 | [Learning Experience Design (LXD)](02-concevoir-et-scenariser/12-learning-experience-design/) | À venir |
-| 13 | [Personnalisation et apprentissage adaptatif](02-concevoir-et-scenariser/13-personnalisation-et-apprentissage-adaptatif/) | À venir |
-| 14 | [Conception des évaluations](02-concevoir-et-scenariser/14-conception-des-evaluations/) | À venir |
-| 15 | [Scénarisation pédagogique et storyboard](02-concevoir-et-scenariser/15-scenarisation-pedagogique-et-storyboard/) | À venir |
+| 01 | [Objectifs pédagogiques et alignement](02-concevoir-et-scenariser/01-objectifs-pedagogiques-et-alignement/) | À venir |
+| 02 | [Modalités et formats de formation](02-concevoir-et-scenariser/02-modalites-et-formats-de-formation/) | À venir |
+| 03 | [Architecture du parcours](02-concevoir-et-scenariser/03-architecture-du-parcours/) | À venir |
+| 04 | [Progression pédagogique](02-concevoir-et-scenariser/04-progression-pedagogique/) | À venir |
+| 05 | [Méthodes et activités pédagogiques](02-concevoir-et-scenariser/05-methodes-et-activites-pedagogiques/) | À venir |
+| 06 | [Learning Experience Design (LXD)](02-concevoir-et-scenariser/06-learning-experience-design/) | À venir |
+| 07 | [Personnalisation et apprentissage adaptatif](02-concevoir-et-scenariser/07-personnalisation-et-apprentissage-adaptatif/) | À venir |
+| 08 | [Conception des évaluations](02-concevoir-et-scenariser/08-conception-des-evaluations/) | À venir |
+| 09 | [Scénarisation pédagogique et storyboard](02-concevoir-et-scenariser/09-scenarisation-pedagogique-et-storyboard/) | À venir |
 | | **[Développer et produire](03-developper-et-produire/)** | **Catégorie** |
-| 16 | [Conception des contenus pédagogiques](03-developper-et-produire/16-conception-des-contenus-pedagogiques/) | À venir |
-| 17 | [Médiatisation et design multimédia](03-developper-et-produire/17-mediatisation-et-design-multimedia/) | À venir |
-| 18 | [Outils auteurs et formats numériques](03-developper-et-produire/18-outils-auteurs-et-formats-numeriques/) | À venir |
-| 19 | [Prototypage et tests utilisateurs](03-developper-et-produire/19-prototypage-et-tests-utilisateurs/) | À venir |
-| 20 | [Recette et validation pédagogique](03-developper-et-produire/20-recette-et-validation-pedagogique/) | À venir |
+| 01 | [Conception des contenus pédagogiques](03-developper-et-produire/01-conception-des-contenus-pedagogiques/) | À venir |
+| 02 | [Médiatisation et design multimédia](03-developper-et-produire/02-mediatisation-et-design-multimedia/) | À venir |
+| 03 | [Outils auteurs et formats numériques](03-developper-et-produire/03-outils-auteurs-et-formats-numeriques/) | À venir |
+| 04 | [Prototypage et tests utilisateurs](03-developper-et-produire/04-prototypage-et-tests-utilisateurs/) | À venir |
+| 05 | [Recette et validation pédagogique](03-developper-et-produire/05-recette-et-validation-pedagogique/) | À venir |
 | | **[Déployer et accompagner](04-deployer-et-accompagner/)** | **Catégorie** |
-| 21 | [Préparation du déploiement](04-deployer-et-accompagner/21-preparation-du-deploiement/) | À venir |
-| 22 | [Intégration et publication sur LMS](04-deployer-et-accompagner/22-integration-et-publication-sur-lms/) | À venir |
-| 23 | [Communication et mobilisation](04-deployer-et-accompagner/23-communication-et-mobilisation/) | À venir |
-| 24 | [Conduite du changement et adoption](04-deployer-et-accompagner/24-conduite-du-changement-et-adoption/) | À venir |
-| 25 | [Animation et accompagnement](04-deployer-et-accompagner/25-animation-et-accompagnement/) | À venir |
+| 01 | [Plateformes LMS et environnements d’apprentissage](04-deployer-et-accompagner/01-plateformes-lms-et-environnements-apprentissage/) | À venir |
+| 02 | [Préparation du déploiement](04-deployer-et-accompagner/02-preparation-du-deploiement/) | À venir |
+| 03 | [Intégration et publication sur LMS](04-deployer-et-accompagner/03-integration-et-publication-sur-lms/) | À venir |
+| 04 | [Communication et mobilisation](04-deployer-et-accompagner/04-communication-et-mobilisation/) | À venir |
+| 05 | [Conduite du changement et adoption](04-deployer-et-accompagner/05-conduite-du-changement-et-adoption/) | À venir |
+| 06 | [Animation, accompagnement et suivi des apprenants](04-deployer-et-accompagner/06-animation-accompagnement-et-suivi-des-apprenants/) | À venir |
 | | **[Évaluer et améliorer](05-evaluer-et-ameliorer/)** | **Catégorie** |
-| 26 | [Évaluation des acquis](05-evaluer-et-ameliorer/26-evaluation-des-acquis/) | À venir |
-| 27 | [Évaluation du dispositif](05-evaluer-et-ameliorer/27-evaluation-du-dispositif/) | À venir |
-| 28 | [Transfert et mesure d’impact](05-evaluer-et-ameliorer/28-transfert-et-mesure-d-impact/) | À venir |
-| 29 | [Learning Analytics](05-evaluer-et-ameliorer/29-learning-analytics/) | À venir |
-| 30 | [Amélioration continue](05-evaluer-et-ameliorer/30-amelioration-continue/) | À venir |
+| 01 | [Modèles et référentiels d'évaluation](05-evaluer-et-ameliorer/01-modeles-et-referentiels-devaluation/) | À venir |
+| 02 | [Évaluation des acquis](05-evaluer-et-ameliorer/02-evaluation-des-acquis/) | À venir |
+| 03 | [Évaluation du dispositif](05-evaluer-et-ameliorer/03-evaluation-du-dispositif/) | À venir |
+| 04 | [Transfert et mesure d’impact](05-evaluer-et-ameliorer/04-transfert-et-mesure-d-impact/) | À venir |
+| 05 | [Learning Analytics](05-evaluer-et-ameliorer/05-learning-analytics/) | À venir |
+| 06 | [Amélioration continue](05-evaluer-et-ameliorer/06-amelioration-continue/) | À venir |
 | | **[Ressources transversales](06-ressources-transversales/)** | **Catégorie** |
-| 31 | [Modèles d’ingénierie pédagogique](06-ressources-transversales/31-modeles-ingenierie-pedagogique/) | À venir |
-| 32 | [Gestion de projets de formation](06-ressources-transversales/32-gestion-de-projets-de-formation/) | À venir |
-| 33 | [Sciences de l’apprentissage](06-ressources-transversales/33-sciences-de-l-apprentissage/) | À venir |
-| 34 | [Accessibilité et inclusion](06-ressources-transversales/34-accessibilite-et-inclusion/) | À venir |
-| 35 | [Qualité et conformité](06-ressources-transversales/35-qualite-et-conformite/) | À venir |
-| 36 | [Éthique, données et droits](06-ressources-transversales/36-ethique-donnees-et-droits/) | À venir |
-| 37 | [Intelligence artificielle appliquée](06-ressources-transversales/37-intelligence-artificielle-appliquee/) | À venir |
-| 38 | [Design d’écosystèmes d’apprentissage](06-ressources-transversales/38-design-ecosystemes-apprentissage/) | À venir |
+| 01 | [Modèles d’ingénierie pédagogique](06-ressources-transversales/01-modeles-ingenierie-pedagogique/) | À venir |
+| 02 | [Gestion de projets de formation](06-ressources-transversales/02-gestion-de-projets-de-formation/) | À venir |
+| 03 | [Sciences de l’apprentissage](06-ressources-transversales/03-sciences-de-l-apprentissage/) | À venir |
+| 04 | [Accessibilité et inclusion](06-ressources-transversales/04-accessibilite-et-inclusion/) | À venir |
+| 05 | [Qualité et conformité](06-ressources-transversales/05-qualite-et-conformite/) | À venir |
+| 06 | [Éthique, données et droits](06-ressources-transversales/06-ethique-donnees-et-droits/) | À venir |
+| 07 | [Intelligence artificielle appliquée](06-ressources-transversales/07-intelligence-artificielle-appliquee/) | À venir |
+| 08 | [Design d’écosystèmes d’apprentissage](06-ressources-transversales/08-design-ecosystemes-apprentissage/) | À venir |
 
 ## Dans chaque module
 
-- `README.md` : introduction, sommaire et état d’avancement.
+- `README.md` : présentation du thème et notions à explorer.
 - `synthese.pdf` : synthèse originale rédigée à partir des lectures.
 - `cheat-sheet.pdf` : fiche de consultation rapide (environ 1 page, parfois 2).
 - `sources.md` : sources lues, références fiables, notes et liens.

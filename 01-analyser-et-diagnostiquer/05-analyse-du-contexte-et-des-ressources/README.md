@@ -1,4 +1,4 @@
-# Analyse du contexte et des ressources
+# 05 — Analyse du contexte et des ressources
 
 Comprendre comment analyser l'environnement dans lequel un projet de formation sera conçu et déployé. Identifier les ressources disponibles, les contraintes et les conditions de mise en œuvre afin d'évaluer sa faisabilité et d'orienter les choix pédagogiques et organisationnels.
 

@@ -1,4 +1,4 @@
-# Cadrage et cahier des charges
+# 06 — Cadrage et cahier des charges
 
 Comprendre comment transformer les résultats du diagnostic en un cadre de projet clair, partagé et réalisable. Définir le périmètre, les exigences, les critères de réussite et les modalités de validation afin de formaliser les décisions dans un cahier des charges.
 
