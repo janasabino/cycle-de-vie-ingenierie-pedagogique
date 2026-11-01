@@ -1,4 +1,4 @@
-# 33 — Sciences de l’apprentissage
+# Sciences de l’apprentissage
 
 Comprendre comment les personnes apprennent à travers les grandes théories de l’apprentissage et les apports des sciences cognitives. Mobiliser ces connaissances pour éclairer les choix pédagogiques et concevoir des situations d’apprentissage adaptées.
 
