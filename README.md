@@ -68,9 +68,9 @@ Les références utilisées pour chaque thème seront documentées dans les modu
 
 ## Dans chaque module
 
-- `README.md` : introduction, questions clés, sommaire et état d’avancement.
-- `synthese.pdf` : **à produire**, synthèse originale rédigée à partir des lectures.
-- `cheat-sheet.pdf` : **à produire**, fiche de consultation rapide (environ 1 page, parfois 2).
+- `README.md` : introduction, sommaire et état d’avancement.
+- `synthese.pdf` : synthèse originale rédigée à partir des lectures.
+- `cheat-sheet.pdf` : fiche de consultation rapide (environ 1 page, parfois 2).
 - `sources.md` : sources lues, références fiables, notes et liens.
 
 ## Méthode de travail
