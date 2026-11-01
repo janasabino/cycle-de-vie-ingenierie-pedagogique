@@ -1,4 +1,4 @@
-# 30 — Amélioration continue
+# Amélioration continue
 
 Comprendre comment faire évoluer un dispositif de formation à partir des évaluations, des retours d’expérience et des besoins identifiés. Mettre en place une démarche structurée pour définir, réaliser et vérifier les améliorations apportées.
 
