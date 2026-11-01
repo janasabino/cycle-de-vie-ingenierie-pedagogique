@@ -1,40 +1,11 @@
 # 34 — Accessibilité et inclusion
 
-**Phase / catégorie :** Ressources transversales
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Concevoir des ressources accessibles à des publics divers.
+Comprendre les enjeux de l’accessibilité et de l’inclusion dans la formation. Identifier les obstacles à l’apprentissage et concevoir des dispositifs pédagogiques adaptés à la diversité des publics, favorisant l’accès, la participation et la réussite de chacun.
 
 ## Notions à explorer
 
-- UDL/CUA.
-- accessibilité numérique.
-- sous-titres.
-- alternatives textuelles.
-- lisibilité.
-- inclusion..
-
-## Livrable professionnel possible
-
-Checklist d’accessibilité.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Diversité des publics et obstacles à l’apprentissage :** identifier les besoins des apprenants et les facteurs pouvant limiter leur accès à la formation ou leur participation.
+- **Conception universelle de l’apprentissage (CUA/UDL) :** découvrir les principes d’une conception pédagogique inclusive, prenant en compte la diversité des façons d’apprendre.
+- **Accessibilité numérique :** comprendre les principes et référentiels d’accessibilité (WCAG, RGAA) et leur application aux dispositifs de formation.
+- **Conception de ressources accessibles :** lisibilité, langage clair, sous-titrage, transcription, alternatives textuelles et navigation adaptée.
+- **Évaluation et amélioration de l’accessibilité :** identifier les difficultés d’utilisation, tester les ressources et apporter les ajustements nécessaires.
