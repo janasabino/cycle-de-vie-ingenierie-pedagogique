@@ -1,41 +1,13 @@
-# 12 — Learning Experience Design (LXD)
+# Learning Experience Design (LXD)
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Concevoir une expérience apprenant pertinente, accessible et engageante.
+Comprendre comment concevoir une expérience d'apprentissage centrée sur l'apprenant, en tenant compte de ses besoins, de ses interactions et de son parcours. Articuler les dimensions pédagogiques, cognitives, émotionnelles et sociales pour créer des expériences cohérentes, engageantes et adaptées aux contextes d'apprentissage.
 
 ## Notions à explorer
 
-- Recherche utilisateur.
-- personas.
-- user journey.
-- UX.
-- motivation.
-- design thinking.
-- points de friction..
+- **Approche centrée sur l'apprenant :** mobiliser les connaissances sur les publics, notamment les personas, pour orienter les décisions de conception.
+- **Cartographie de l'expérience apprenant (Learner Journey Map) :** représenter les étapes, les interactions et les points de contact qui composent l'expérience de formation.
+- **Expérience utilisateur (UX) appliquée à la formation :** concevoir des parcours compréhensibles, fluides et faciles à utiliser, favorisant l'autonomie des apprenants.
+- **Dimensions de l'expérience d'apprentissage :** prendre en compte les aspects cognitifs, émotionnels et sociaux dans la conception des situations d'apprentissage.
+- **Identification des points de friction :** anticiper les difficultés susceptibles de perturber l'expérience et concevoir des solutions pour les réduire.
 
-## Livrable professionnel possible
 
-Carte de l’expérience apprenant.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
