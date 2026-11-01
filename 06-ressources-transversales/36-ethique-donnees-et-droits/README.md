@@ -1,4 +1,4 @@
-# 36 — Éthique, données et droits
+# Éthique, données et droits
 
 Comprendre les principaux enjeux éthiques et juridiques liés à la conception et à la mise en œuvre des formations. Adopter des pratiques responsables pour protéger les personnes, respecter leurs droits et utiliser les ressources pédagogiques dans un cadre approprié.
 
