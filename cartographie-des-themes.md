@@ -1,17 +1,23 @@
-# Cartographie des thèmes issus des quatre programmes consultés
 
-Cette carte oriente la constitution du référentiel. Elle reprend des **thèmes**, pas le contenu des cours. Les intitulés des programmes sont ceux des quatre présentations fournies.
+# Cartographie des thèmes des programmes de formation consultés
 
-| Programme | Thèmes repérés | Correspondance dans ce dépôt |
+[← Retour à l'index général](README.md)
+
+Cette cartographie présente les principales thématiques identifiées dans quatre programmes de formation consacrés à l'ingénierie pédagogique, au design d'expériences d'apprentissage, aux écosystèmes d'apprentissage et à l'intelligence artificielle appliquée à l'éducation.
+
+Elle constitue un point de départ pour la recherche et l'autoformation. Les intitulés des programmes ont été traduits et adaptés en français.
+
+La colonne « Correspondance avec les modules » sera complétée progressivement, au fur et à mesure de la production des ressources du dépôt.
+
+| Programme de formation | Thèmes identifiés | Correspondance avec les modules |
 |---|---|---|
-| Design de Ecossistemas de Aprendizagem | Culture et maturité d’apprentissage, cartographie des écosystèmes, IA, technologies, données et indicateurs, engagement, gestion de portefeuille | 05, 18, 23, 28–29, 32, 37–38 |
-| Learning Experience Design | Recherche apprenant, personas et parcours, méthodes actives, microlearning, storytelling, évaluation, personnalisation, accessibilité | 04, 11–14, 16–17, 27, 34 |
-| Desenho Instrucional | Diagnostic, compétences, alignement, LXD, scénarisation, qualité, gestion de projets, déploiement et mesure d’impact | 01–07, 12, 15–16, 20–22, 28, 32, 35 |
-| IA aplicada à educação | Fondamentaux IA/LLM, prompting, assistants, automatisation, ressources multimédias, éthique, agents et évolution du secteur | 17–18, 34, 36–37 |
+| [Design d'écosystèmes d'apprentissage](https://www.idi.com.br/pos-graduacao-design-de-ecossistemas-de-aprendizagem) | Culture et maturité de l'apprentissage, cartographie des écosystèmes, intelligence artificielle, technologies, données et indicateurs, engagement, gestion de portefeuille de projets | |
+| [Design d'expériences d'apprentissage (LXD)](https://www.idi.com.br/pos-learning-experience-design) | Recherche sur les apprenants, personas et parcours, méthodes actives, microlearning, storytelling, évaluation, personnalisation, accessibilité | |
+| [Ingénierie pédagogique](https://www.idi.com.br/pos-graduacao-desenho-instrucional) | Diagnostic, compétences, alignement pédagogique, LXD, scénarisation, qualité, gestion de projets, déploiement et mesure d'impact | |
+| [Intelligence artificielle appliquée à l'éducation](https://www.idi.com.br/pos-ia) | Fondamentaux de l'IA et des LLM, conception de prompts, assistants, automatisation, ressources multimédias, éthique, agents et évolution du secteur | |
 
 ## Principes de classement
 
-- **Les étapes du cycle** répondent à *que faut-il faire à ce moment du projet ?*
-- **Les ressources transversales** répondent à *quels modèles, principes ou enjeux éclairent plusieurs étapes ?*
+- **Les étapes du cycle** répondent à la question : *que faut-il faire à ce moment du projet ?*
+- **Les ressources transversales** répondent à la question : *quels modèles, principes ou enjeux éclairent plusieurs étapes ?*
 - Une notion peut figurer dans plusieurs modules sans donner lieu à une nouvelle rubrique.
-- Les sujets très techniques de l’IA (entraînement de modèles, architectures, etc.) restent dans une ressource transversale ou dans des projets IA dédiés : ils ne deviennent pas artificiellement des phases du cycle de vie.
