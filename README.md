@@ -1,18 +1,21 @@
 # Cycle de vie de l’ingénierie pédagogique
 
-> Une bibliothèque de ressources pratiques, synthétiques et évolutives pour comprendre, concevoir, déployer et améliorer des dispositifs de formation.
+Une bibliothèque de ressources pratiques, synthétiques et évolutives pour comprendre, concevoir, déployer et améliorer des dispositifs de formation.
 
 ## À propos
 
-Ce projet constitue un support d’autoformation et de partage professionnel. Il ne prétend ni être une encyclopédie ni imposer un processus universel. Il relie des connaissances théoriques à des méthodes, outils et exemples de terrain.
+Ce projet constitue un support d'autoformation et de partage professionnel. Il ne prétend ni être une encyclopédie ni imposer un processus universel.
 
-**Structure :** cinq phases du cycle de vie et une bibliothèque de ressources transversales. Les phases peuvent se chevaucher, se répéter ou s’adapter aux projets.
+Il articule des connaissances théoriques, des méthodes et des outils pratiques en ingénierie pédagogique. Au fil de son développement, il pourra également s'enrichir d'exemples issus de situations professionnelles et de liens vers des projets et outils personnels, développés en parallèle et partagés progressivement.
 
-## État d’avancement
 
-- **Structure du dépôt :** créée (version 0.2).
-- **Synthèses et cheat sheets :** à produire progressivement.
-- **Statuts :** `En préparation` = module retenu comme point de départ, sans synthèse publiée ; `À venir` = contenu non commencé ; `En cours` = contenu en rédaction ; `Terminé` = synthèse et cheat sheet publiés.
+## Origine et références
+
+Ce projet s'inspire du dépôt GitHub [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project), dont l'approche de structuration et de partage des connaissances m'a donné l'idée de créer une bibliothèque de ressources consacrée à l'ingénierie pédagogique.
+
+La sélection et l'organisation des thèmes s'appuient sur mes recherches personnelles, les connaissances acquises au cours de ma formation de conceptrice-formatrice à l'ISTF et mon expérience professionnelle.
+
+Les références utilisées pour chaque thème seront documentées dans les modules correspondants.
 
 ## Index général
 
@@ -70,8 +73,6 @@ Ce projet constitue un support d’autoformation et de partage professionnel. Il
 - `cheat-sheet.pdf` : **à produire**, fiche de consultation rapide (environ 1 page, parfois 2).
 - `sources.md` : sources lues, références fiables, notes et liens.
 
-> Les fichiers PDF ne sont pas encore présents : leurs noms indiquent les livrables prévus, sans créer de documents vides ni de liens brisés.
-
 ## Méthode de travail
 
 1. Délimiter le thème et choisir quelques sources de qualité.
@@ -80,14 +81,7 @@ Ce projet constitue un support d’autoformation et de partage professionnel. Il
 4. Documenter les sources consultées, puis mettre à jour l’état du module.
 5. Ajouter les liens pertinents vers les autres projets du portfolio lorsque ces connexions existent.
 
-## Projets connexes
-
-Des passerelles pourront être ajoutées vers **PedagoCheck**, **Planipedag**, le projet **Learning Analytics** et des études de cas, selon leur avancement et les fonctionnalités réellement disponibles.
-
-## Référentiel de départ
-
-L’architecture a été rapprochée des thématiques de quatre programmes : Design de Ecossistemas de Aprendizagem, Learning Experience Design, Desenho Instrucional et IA (IDI). Il s’agit d’une réorganisation personnelle, non d’une reproduction de leurs cours. Voir [Cartographie des thèmes](cartographie-des-themes.md).
 
 ## Licence et contributions
 
-À définir avant toute ouverture à des contributions extérieures. Les sources et les droits des médias seront vérifiés pour chaque ressource.
+À définir 
