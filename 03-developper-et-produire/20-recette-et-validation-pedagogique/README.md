@@ -1,40 +1,11 @@
-# 20 — Recette et validation pédagogique
+# Recette et validation pédagogique
 
-**Phase / catégorie :** Développer et produire
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Contrôler les livrables avant diffusion.
+Comprendre comment vérifier la qualité pédagogique, l'exactitude des contenus et le bon fonctionnement d'un dispositif de formation avant sa diffusion. Organiser les différentes étapes de validation, identifier les anomalies et s'assurer que les livrables répondent aux exigences définies.
 
 ## Notions à explorer
 
-- Recette pédagogique et technique.
-- liens.
-- navigation.
-- médias.
-- compatibilité.
-- traçabilité des corrections..
-
-## Livrable professionnel possible
-
-Checklist de recette.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Recette pédagogique :** vérifier la cohérence entre les objectifs, les contenus, les activités et les évaluations, ainsi que le respect du scénario pédagogique et du cahier des charges.
+- **Validation métier et expertise des contenus :** organiser, lorsque cela est nécessaire, la vérification de l'exactitude, de la pertinence et de l'actualité des contenus par des experts du domaine.
+- **Recette fonctionnelle et technique :** contrôler les liens, la navigation, les médias, les interactions, l'affichage et la compatibilité avec les différents supports et environnements d'utilisation.
+- **Gestion des anomalies et des corrections :** identifier, documenter et prioriser les problèmes détectés, suivre les modifications et vérifier leur résolution.
+- **Validation finale des livrables :** définir les critères d'acceptation, identifier les responsables de validation et confirmer que le dispositif peut passer à l'étape de déploiement.
