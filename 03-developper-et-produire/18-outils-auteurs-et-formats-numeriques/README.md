@@ -1,42 +1,12 @@
-# 18 — Outils auteurs et formats numériques
+# Outils auteurs et formats numériques
 
-**Phase / catégorie :** Développer et produire
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Comprendre les possibilités des outils et formats pour la production et l’intégration.
+Comprendre les fonctionnalités des outils de création de ressources pédagogiques numériques et les principaux formats de diffusion. Explorer les technologies émergentes et identifier les critères permettant de choisir des solutions adaptées aux objectifs pédagogiques et aux contraintes techniques.
 
 ## Notions à explorer
 
-- Outils auteurs.
-- SCORM.
-- xAPI.
-- LMS.
-- LXP.
-- AVA.
-- interopérabilité.
-- outils immersifs..
-
-## Livrable professionnel possible
-
-Fiche de choix technologique.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
+- **Outils de création et outils auteurs :** découvrir les principales solutions de production de ressources pédagogiques numériques (Storyline, Rise, Genially, H5P, Canva, etc.) et leurs spécificités.
+- **Fonctionnalités de création :** explorer les possibilités de production de contenus interactifs, de quiz, de simulations, de scénarios à embranchements et d'autres activités numériques.
+- **Formats de production et d'exportation :** comprendre les caractéristiques des principaux formats de diffusion (PDF, HTML5, SCORM, etc.) et leurs conditions d'utilisation.
+- **Interopérabilité et suivi des activités :** découvrir les standards et spécifications (SCORM, xAPI, LTI) permettant l'échange de contenus, l'intégration d'outils et la transmission de données entre systèmes compatibles.
+- **Technologies immersives :** découvrir les possibilités pédagogiques de la réalité virtuelle (VR), de la réalité augmentée (AR), de la réalité mixte (MR) et des environnements immersifs, ainsi que leurs outils, leurs applications et leurs limites.
+- **Choix et utilisation des outils :** comparer les fonctionnalités, les coûts, les contraintes techniques, les possibilités de publication et les conditions de maintenance des différentes solutions.
