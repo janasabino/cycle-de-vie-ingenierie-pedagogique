@@ -1,40 +1,12 @@
-# 09 — Architecture du parcours
+# Architecture du parcours
 
-**Phase / catégorie :** Concevoir et scénariser
-
-**État :** À venir
-
-[← Retour à la phase](../README.md) · [Index général](../../README.md)
-
-## Finalité
-
-Définir la structure macro du dispositif de formation.
+Comprendre comment organiser les différentes composantes d'un parcours de formation pour construire un ensemble cohérent et adapté aux besoins des apprenants. Définir la structure générale du dispositif, les articulations entre les modules et les différentes étapes de l'expérience d'apprentissage.
 
 ## Notions à explorer
 
-- Blocs et modules.
-- parcours utilisateur.
-- jalons.
-- prérequis.
-- ressources.
-- expérience de bout en bout..
+- **Structuration du parcours :** organiser la formation en blocs, modules et séquences pédagogiques, en fonction des objectifs et des compétences visées.
+- **Articulation des modules et prérequis :** identifier les dépendances entre les apprentissages et prévoir des parcours adaptés aux connaissances préalables des apprenants.
+- **Parcours et expérience de l'apprenant :** concevoir une expérience cohérente, de l'entrée en formation jusqu'à sa conclusion, en tenant compte des besoins et des interactions aux différentes étapes.
+- **Avant, pendant et après la formation :** organiser les actions de préparation, les temps d'apprentissage et les activités favorisant la consolidation et la continuité des acquis.
+- **Ressources et composantes du dispositif :** prévoir l'articulation entre les contenus, les activités, les évaluations et les dispositifs d'accompagnement au sein du parcours.
 
-## Livrable professionnel possible
-
-Architecture ou carte du parcours.
-
-## Ressources du module
-
-| Ressource | Disponibilité |
-|---|---|
-| Synthèse personnelle (`synthese.pdf`) | À produire |
-| Cheat sheet (`cheat-sheet.pdf`) | À produire |
-| [Sources et lectures](sources.md) | Page créée, lectures à renseigner |
-
-## Liens avec d’autres projets
-
-À enrichir lorsque des connexions concrètes seront établies (outils, laboratoires ou études de cas).
-
-## Notes de conception
-
-Cette page sert de point d’entrée et sera enrichie avec les connaissances acquises. La synthèse PDF distinguera les concepts établis, les exemples et les choix de conception.
